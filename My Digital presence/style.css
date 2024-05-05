@@ -25,13 +25,24 @@ font-weight: bolder;
 border: 0.5rem;
 }
 .content h2 span p {
-    color: rgb(49, 76, 225);
+    color: rgb(62, 85, 218);
     font-size: 2.5rem;
     
 }
+
 .content h4{
     margin-left: 157px;
     font-weight: bolder;
     border: 0.5rem;
 }
+.content img {
+    margin-top: 200px;
+    margin-right: 200px; 
+    position: absolute; /* this will give a fix position to you pic where you wnat to  */
+    right: 0; /* to align the pic in right side of the screen */
+    top: 0; /* Align to the top */
+    max-width: 1000px; /* Control the size as needed */
+    border-radius: 40% 20%;
   
+}
+
