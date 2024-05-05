@@ -1,0 +1,37 @@
+body {
+    background-color:rgb(154, 212, 233);;
+    /* color: aliceblue; */
+}
+
+  .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px; 
+    list-style: none;
+
+  }
+  .navigation a {
+    color: rgb(0, 0, 0);
+    font-size: 1.3em;
+    margin-right: 40px;
+    /* font-weight: 500; */
+
+  }
+.content h2 {
+margin-left: 157px;
+margin-top: 150px;
+font-weight: bolder;
+border: 0.5rem;
+}
+.content h2 span p {
+    color: rgb(49, 76, 225);
+    font-size: 2.5rem;
+    
+}
+.content h4{
+    margin-left: 157px;
+    font-weight: bolder;
+    border: 0.5rem;
+}
+  
