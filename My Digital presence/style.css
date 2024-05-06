@@ -1,7 +1,7 @@
 body {
-    background-color:rgb(154, 212, 233);;
+    background-color:rgb(154, 212, 233);
     /* color: aliceblue; */
-}
+  }
 
   .navigation {
     display: flex;
@@ -10,6 +10,8 @@ body {
     padding: 10px; 
     /* margin-top: 10px; */
     list-style: none;
+    background-color: rgb(138, 204, 228);
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 
   }
   .navigation a {
@@ -23,11 +25,11 @@ body {
     background-color:rgb(62, 85, 218);
   }
 .content h2 {
-margin-left: 157px;
-margin-top: 150px;
-font-weight: bolder;
-border: 0.5rem;
-}
+    margin-left: 157px;
+    margin-top: 150px;
+    font-weight: bolder;
+    border: 0.5rem;
+ }
 
 .content h2 p {
   color: rgb(62, 85, 218);
@@ -47,21 +49,20 @@ border: 0.5rem;
   margin-left: 155px;
   margin-top: 10px;
   background-color:rgb(62, 85, 218);
+  
 }
 .content img {
-    margin-top: 120px;
-    margin-right: 250px; 
+    margin-top: 140px;
+    margin-right: 240px; 
     position: absolute; /* this will give a fix position to you pic where you wnat to  */
     right: 0; /* to align the pic in right side of the screen */
     top: 0; /* Align to the top */
     max-width: 1000px; /* Control the size as needed */
     border-radius: 40% 20%;
-  
-}
-
-.icons{
-margin: 200px 1px 20px 150px;
-/* border-radius: 50%; */
 
 }
+.icons  {
+  margin-left: 155px;
+  margin-top: 150px;
 
+}

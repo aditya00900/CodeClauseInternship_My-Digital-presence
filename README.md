@@ -1,3 +1,4 @@
 # CodeClauseInternship_WebDevelopment
 CodeClauseInternship_WebDevelopment Intern
-the code will avilable soon...
+
+Completed project 
