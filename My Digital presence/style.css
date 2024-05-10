@@ -44,7 +44,15 @@ body {
 .content i {
   margin-left: 155px;
   word-wrap: break-word;
+  
 }
+
+.content p {
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+
+}
+
+
 .content span button{
   margin-left: 155px;
   margin-top: 10px;
@@ -59,6 +67,7 @@ body {
     top: 0; /* Align to the top */
     max-width: 1000px; /* Control the size as needed */
     border-radius: 40% 20%;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.6);
 
 }
 .icons  {
