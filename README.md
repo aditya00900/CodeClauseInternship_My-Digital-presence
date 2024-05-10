@@ -1,4 +1,2 @@
-# CodeClauseInternship_WebDevelopment
-CodeClauseInternship_WebDevelopment Intern
-
- # My Digital presence project Completed ✅.
+# 1st project of CodeClause Internship. 
+# My Digital presence project Completed ✅.
